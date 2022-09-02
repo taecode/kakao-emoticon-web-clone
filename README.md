@@ -1,12 +1,12 @@
 # kakao-emoticon-web
 
 
-## 프로젝트소개
+## Description
 카카오 이모티콘 샵 웹 페이지의 백엔드 부분을 구현한 프로젝트
 
-## 기술스택
+## Stack
 
-## DB모델링
+## DB modeling
 
-## 맡은부분
+## Page
 
