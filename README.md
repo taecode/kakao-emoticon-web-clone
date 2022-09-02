@@ -17,7 +17,8 @@
 </div>
 
 ## DB modeling
+<img src="https://user-images.githubusercontent.com/71432079/188181558-80c918f6-762a-42b5-ac11-922c34441e16.jpg" width="800" height="400"/>
 <img src="https://user-images.githubusercontent.com/71432079/188181054-a336de07-cb85-4e19-a3f8-b0ef79f93dae.PNG" width="800" height="400"/>
-
+https://user-images.githubusercontent.com/71432079/188181558-80c918f6-762a-42b5-ac11-922c34441e16.jpg
 ## Page
 
