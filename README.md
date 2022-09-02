@@ -17,6 +17,7 @@
 </div>
 
 ## DB modeling
+<img src="이미지주소.png" width="200" height="400"/>
 
 ## Page
 
