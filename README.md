@@ -5,7 +5,7 @@
 카카오 이모티콘 샵 웹 페이지의 백엔드 부분을 구현한 프로젝트
 
 ## Stack
-<div align=center>
+<div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  
 </div>
+
 ## DB modeling
 
 ## Page
