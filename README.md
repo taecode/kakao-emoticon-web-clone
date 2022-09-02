@@ -17,7 +17,7 @@
 </div>
 
 ## DB modeling
-<img src="이미지주소.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/71432079/188181054-a336de07-cb85-4e19-a3f8-b0ef79f93dae.PNG" width="800" height="400"/>
 
 ## Page
 
