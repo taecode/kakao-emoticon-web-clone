@@ -26,12 +26,3 @@
 <img src="https://user-images.githubusercontent.com/71432079/188181558-80c918f6-762a-42b5-ac11-922c34441e16.jpg" width="800" height="400"/>
 <img src="https://user-images.githubusercontent.com/71432079/188181054-a336de07-cb85-4e19-a3f8-b0ef79f93dae.PNG" width="800" height="400"/>
 
-## Page
-<p>
-  <img src="https://user-images.githubusercontent.com/71432079/188269705-c3d22b08-b984-43f8-8ca3-ee6723b5dd06.PNG" width="200" height="600"/>
-</p>
-<div align="center">
-   * 비로그인 상태에서의 사이드바
-   * 각 페이지로 이동
-   * 로그인이 필요한 페이지는 모달창으로 로그인 요청
-</div>
