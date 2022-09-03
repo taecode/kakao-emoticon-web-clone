@@ -8,7 +8,7 @@
 * 맡은부분
   - 마이페이지
   - 사이드 메뉴
-
+  - [발표자료](https://drive.google.com/file/d/1k2p1AebzDBk2mrWULtBfwamhCqNnf-YV/view?usp=sharing)
 ## Stack
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -20,7 +20,6 @@
   <br>
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-
 </div>
 
 ## DB modeling
@@ -28,4 +27,11 @@
 <img src="https://user-images.githubusercontent.com/71432079/188181054-a336de07-cb85-4e19-a3f8-b0ef79f93dae.PNG" width="800" height="400"/>
 
 ## Page
-
+<p>
+  <img src="https://user-images.githubusercontent.com/71432079/188269705-c3d22b08-b984-43f8-8ca3-ee6723b5dd06.PNG" width="200" height="600"/>
+</p>
+<div align="center">
+   * 비로그인 상태에서의 사이드바
+   * 각 페이지로 이동
+   * 로그인이 필요한 페이지는 모달창으로 로그인 요청
+</div>
