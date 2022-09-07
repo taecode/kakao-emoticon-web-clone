@@ -11,15 +11,15 @@
   - [발표자료](https://drive.google.com/file/d/1k2p1AebzDBk2mrWULtBfwamhCqNnf-YV/view?usp=sharing)
 ## Stack
 <div>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://camo.githubusercontent.com/fe32ad2ab38a49980ae074cb13dee4b325e1c067f5b33998af9d42b72bb6e47b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465">
   <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://camo.githubusercontent.com/989c72c75f8e78ca3d5f8faf7d6d50228c2154b400a1280c36dff4d62783fadd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/79fe43df22a9d1011a93608949644a2676fb125b92192462dc5ae33558f69d14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/feff220bbfee4fe510d0c4345cd562d4c34e5b1fcf16fab198092704f20fff4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a71756572792d3037363941443f7374796c653d666c6174266c6f676f3d4a7175657279266c6f676f436f6c6f723d7768697465">
   <br>
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://camo.githubusercontent.com/9d197e403a008001d0af08199a02dfc4e3a6bad32b9331fe29219bf68375bd0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41706163686520546f6d6361742d4638444337353f7374796c653d666c6174266c6f676f3d746f6d636174266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/f6a91e1d5cf4189ee70fbe14054d5a6163aac0e4b2e39c3c98a0c3f0b0b595dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652044422d4638303030303f7374796c653d666c6174266c6f676f3d4f7261636c65266c6f676f436f6c6f723d7768697465">
 </div>
 
 ## DB modeling
